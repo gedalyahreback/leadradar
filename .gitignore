@@ -1,0 +1,6 @@
+lead_radar.sqlite3
+lead_radar.sqlite3-*
+__pycache__/
+*.pyc
+.DS_Store
+.env
